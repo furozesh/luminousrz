@@ -1,16 +1,27 @@
 ## Hi there 👋
+I'm Zahra. A Front-End Developer passionate about building modern, responsive, and user-friendly web applications.
 
-<!--
-**luminousrz/luminousrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning
+- Redux – understanding global state management
+- Zustand – exploring lightweight state management
+- TypeScript – improving type safety in React projects
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Restful API, React Hooks
+- Next.js
+- TailwindCSS
+- Git & GitHub
+- Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center;">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=luminousrz&show_icons=true&theme=tokyonight)
+  ![Streak](https://streak-stats.demolab.com/?user=luminousrz&theme=tokyonight)
+  
+</div>
+
+
+### 📫 Contact
+Feel free to reach me at: **thefurozesh@gmail.com**
