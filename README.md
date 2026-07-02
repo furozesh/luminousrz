@@ -3,7 +3,7 @@ I'm Zahra. A Front-End Developer passionate about building modern, responsive, a
 
 ### 🚀 Currently Building
 
-- A CMS/blog system with **Next.js**, **React**, and **TypeScript**
+- A CMS/blog system with **Next.js** and **TypeScript**
 - A dynamic block-rendering system similar to Elementor
 - Reusable UI components, responsive layouts, and clean frontend architecture
 - Learning deeper concepts around rendering, routing, CMS APIs, and scalable project structure
