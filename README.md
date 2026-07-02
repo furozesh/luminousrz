@@ -1,9 +1,12 @@
 ## Hi there 👋
 I'm Zahra. A Front-End Developer passionate about building modern, responsive, and user-friendly web applications.
 
-### 🌱 I’m currently learning
-- Redux – understanding global state management
-- Zustand – exploring lightweight state management
+### 🚀 Currently Building
+
+- A CMS/blog system with **Next.js**, **React**, and **TypeScript**
+- A dynamic block-rendering system similar to Elementor
+- Reusable UI components, responsive layouts, and clean frontend architecture
+- Learning deeper concepts around rendering, routing, CMS APIs, and scalable project structure
 
 ### 🔧 Technologies & Tools
 - HTML5, CSS3, JavaScript (ES6+)
@@ -18,6 +21,15 @@ I'm Zahra. A Front-End Developer passionate about building modern, responsive, a
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furozesh&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furozesh&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=furozesh&theme=tokyonight&hide_border=true&card_width=700" />
 </p>
 
 ### 📫 Contact
