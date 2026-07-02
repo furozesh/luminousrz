@@ -24,7 +24,7 @@ I'm Zahra. A Front-End Developer passionate about building modern, responsive, a
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=furozesh&theme=dracula&hide_border=true&card_width=700" />
+  <img src="https://streak-stats.demolab.com?user=furozesh&theme=onedark&hide_border=true&card_width=700" />
 </p>
 
 ### 📫 Contact
