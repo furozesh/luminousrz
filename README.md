@@ -17,8 +17,8 @@ I'm Zahra. A Front-End Developer passionate about building modern, responsive, a
 ### 📊 GitHub Stats
 <div style="display: flex; justify-content: center;">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=luminousrz&show_icons=true&theme=tokyonight)
-  ![Streak](https://streak-stats.demolab.com/?user=luminousrz&theme=tokyonight)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=furozesh&show_icons=true&theme=tokyonight)
+  ![Streak](https://streak-stats.demolab.com/?user=furozesh&theme=tokyonight)
   
 </div>
 
