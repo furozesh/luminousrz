@@ -4,12 +4,12 @@ I'm Zahra. A Front-End Developer passionate about building modern, responsive, a
 ### 🌱 I’m currently learning
 - Redux – understanding global state management
 - Zustand – exploring lightweight state management
-- TypeScript – improving type safety in React projects
 
 ### 🔧 Technologies & Tools
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js, Restful API, React Hooks
 - Next.js
+- Typescript
 - TailwindCSS
 - Git & GitHub
 - Responsive Design
