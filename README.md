@@ -21,13 +21,13 @@ I'm Zahra. A Front-End Developer passionate about building modern, responsive, a
   ![Streak](https://streak-stats.demolab.com/?user=furozesh&theme=tokyonight)
   
 </div>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furozesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furozesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<h1 align="center">Hi 👋, I'm Furozesh</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=furozesh&theme=tokyonight&hide_border=true&card_width=700" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+CMS+and+Blog+Systems;Learning+real-world+software+architecture" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ### 📫 Contact
